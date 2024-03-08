@@ -1,0 +1,3 @@
+[submodule "Core/Dependencies/Flowise"]
+	path = Core/Dependencies/Flowise
+	url = https://github.com/FlowiseAI/Flowise.git

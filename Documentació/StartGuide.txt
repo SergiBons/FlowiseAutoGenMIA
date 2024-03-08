@@ -1,0 +1,23 @@
+Prerequisite:
+Install Yarn
+npm i -g yarn
+
+
+Setup
+    Go to the Flowise dependency
+
+../core/dependencies/Flowise
+
+    Install all dependencies of all modules:
+
+yarn install
+
+    Build all the code:
+
+yarn build
+
+    Start the app:
+
+yarn start
+
+You can now access the app on ​http://localhost:3000/
